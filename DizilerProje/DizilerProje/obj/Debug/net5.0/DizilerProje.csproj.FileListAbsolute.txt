@@ -1,0 +1,15 @@
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DizilerProje\DizilerProje\bin\Debug\net5.0\DizilerProje.exe
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DizilerProje\DizilerProje\bin\Debug\net5.0\DizilerProje.deps.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DizilerProje\DizilerProje\bin\Debug\net5.0\DizilerProje.runtimeconfig.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DizilerProje\DizilerProje\bin\Debug\net5.0\DizilerProje.runtimeconfig.dev.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DizilerProje\DizilerProje\bin\Debug\net5.0\DizilerProje.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DizilerProje\DizilerProje\bin\Debug\net5.0\ref\DizilerProje.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DizilerProje\DizilerProje\bin\Debug\net5.0\DizilerProje.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DizilerProje\DizilerProje\obj\Debug\net5.0\DizilerProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DizilerProje\DizilerProje\obj\Debug\net5.0\DizilerProje.AssemblyInfoInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DizilerProje\DizilerProje\obj\Debug\net5.0\DizilerProje.AssemblyInfo.cs
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DizilerProje\DizilerProje\obj\Debug\net5.0\DizilerProje.csproj.CoreCompileInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DizilerProje\DizilerProje\obj\Debug\net5.0\DizilerProje.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DizilerProje\DizilerProje\obj\Debug\net5.0\ref\DizilerProje.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DizilerProje\DizilerProje\obj\Debug\net5.0\DizilerProje.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DizilerProje\DizilerProje\obj\Debug\net5.0\DizilerProje.genruntimeconfig.cache

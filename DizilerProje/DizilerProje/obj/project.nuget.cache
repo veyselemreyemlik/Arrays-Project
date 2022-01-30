@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r7f8YOYWY6Cmb/nw+t8gnTeAKyyNK6woW0QmssFFSwwSYfAUq8dlVvrrlTbh1N7Kuy9YABvMLQmZrPvrpYHthA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\veyse\\OneDrive\\Masaüstü\\C# PROJELERİ\\DizilerProje\\DizilerProje\\DizilerProje.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veyse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
